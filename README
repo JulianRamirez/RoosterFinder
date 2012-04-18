@@ -1,0 +1,6 @@
+Is your twitter out of control with tweets coming at you so fast you can't keep up? Or maybe you're just curious who is making the most noise in your twitter stream and want to reevaluate if they're worth following. 
+
+RoosterFinder is a *simple* script to show you how many tweets each person in your timeline has tweeted. 
+
+Right now the script requires that you have your own Twitter application and can also your own oauth token as well, not the friendliest. 
+Obvious improvements could be made to provide a SaaS offering with full-native clients on winmo, ios, and android, along with a HTML5-compliant realtime social backbone.js and node.js responsively designed web experience. Profit.
